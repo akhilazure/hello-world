@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Sagar Anna Azure DevOps Training Institute</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to register in training institute.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
